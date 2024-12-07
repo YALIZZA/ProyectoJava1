@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
-
+//Yalizza Elayne Torres Caballero
+//Hernan Armando Hernandez Romero
 public class SimuladorDeViajeInterPlanetario {
 
     // Elementos necesarios para todas las acciones a trabajar
